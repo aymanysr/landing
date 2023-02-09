@@ -1,0 +1,15 @@
+.banner-sect {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner-sect h1 {
+  color: white;
+}
+
+.banner-sect p {
+  color: white;
+  opacity: 0.8;
+  font-size: 20px;
+}
